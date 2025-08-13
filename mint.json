@@ -18,13 +18,14 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:info@tetbit.com"
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Contact",
-    "url": "https://tetbit.com/contact"
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
   },
+  "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
